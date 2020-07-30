@@ -1,0 +1,11 @@
+pyttsx3==2.87
+beautifulsoup4==4.8.2
+SpeechRecognition==3.8.1
+wikipedia==1.4.0
+google==2.0.3
+googleapis-common-protos==1.52.0
+smtplib
+requests==2.23.0
+html5lib==1.0.1
+nltk==3.5
+PyAudio==0.2.11
