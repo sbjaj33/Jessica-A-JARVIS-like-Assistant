@@ -242,7 +242,10 @@ if __name__ == "__main__":
         elif 'stop jessica' or 'abort' in query:
             speak('Okay sir , Take care , bye')
             break
-        elif True:
+        elif 'Can you give your number' in query:
+            speak("Okay sir, it's 00000000000 try calling it!")
+            break
+        elif TRUE:
             continue
     
 
